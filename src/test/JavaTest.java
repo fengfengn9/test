@@ -10,5 +10,6 @@ public class JavaTest {
         System.out.println("HI2");
         System.out.println("?????");
         System.out.println("mas tet");
+        System.out.println("hot tet");
     }
 }
